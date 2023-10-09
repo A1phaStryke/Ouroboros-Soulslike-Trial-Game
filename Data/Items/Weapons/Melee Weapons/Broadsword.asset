@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e2c064a95d26334dbeea3af15513c9f, type: 3}
+  m_Name: Broadsword
+  m_EditorClassIdentifier: 
+  itemName: Broadsword
+  itemIcon: {fileID: 0}
+  itemDescription: A Broadsword
+  itemID: 2
+  weaponModel: {fileID: 5845070891412295360, guid: dd778fa644c802a479b3a51ffc508415,
+    type: 3}
+  strengthREQ: 15
+  dexREQ: 10
+  intREQ: 0
+  faithREQ: 0
+  physicalDamage: 152
+  magicDamage: 0
+  fireDamage: 0
+  holyDamage: 0
+  lightningDamage: 0
+  poiseDamage: 32
+  light_Attack_01_Modifier: 1.1
+  baseStaminaCost: 30
+  lightAttackStaminaCostMultiplier: 0.9
+  oh_rb_lm_Action: {fileID: 11400000, guid: 1f9e182e40566d742b77003f1a2fc430, type: 2}
